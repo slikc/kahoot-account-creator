@@ -1,10 +1,10 @@
 #https://github.com/slikc
-import      requests
-import      uuid
-import      base64
-import      time
-import      random
-import      string
+import          requests
+import          uuid
+import          base64
+import          time
+import          random
+import          string
 from colorama import Fore
 requests.packages.urllib3.disable_warnings()
 
